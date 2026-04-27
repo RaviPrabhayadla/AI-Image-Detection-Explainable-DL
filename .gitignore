@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Dataset (DO NOT upload)
+dataset/
+data/
+
+# Model files (trained weights)
+*.h5
+*.hdf5
+*.pt
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
