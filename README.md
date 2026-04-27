@@ -46,4 +46,7 @@ This project focuses on detecting AI-generated images using deep learning models
 
 * Real-time detection system
 * Web-based deployment
-* Improved generalization for new AI models
+* Improved generalization for new AI models!
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/527576d0-beda-440a-a7a7-eef8dc30e2e8" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/7947d3b6-0093-4229-b594-d29e4d19ade8" />
+
